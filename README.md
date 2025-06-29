@@ -1,23 +1,34 @@
-# Regression-project-bases-on-Zomato-Delivery-Data
+# Regression Project Based on Zomato Delivery Data
 
-Initial Data Overview
+## 📊 Initial Data Overview
 
-In the initial stage, we had a total of 18 columns and 30,000 rows.
-We cleaned the data and converted some columns to numeric types. Additionally, we applied StandardScaler to minimize the impact of high values by normalizing the data.
- Finally, we utilized a ColumnTransformer and a pipeline to streamline the modeling process.
+- **Rows:** 30,000  
+- **Columns:** 18  
+- We cleaned the dataset, handled missing values, and converted categorical data to numeric using appropriate encodings.
+- Applied **StandardScaler** to normalize the numerical features.
+- Used **ColumnTransformer** and **Pipeline** to automate preprocessing and modeling.
 
-**Project name - Zomato regression model
-Dataset - This data is available in Kaggle (https://www.kaggle.com/datasets/saurabhbadole/zomato-delivery-operations-analytics-dataset/data)
-**
+---
 
-<img width="956" alt="image" src="https://github.com/user-attachments/assets/5964c70b-a7a5-4cf1-9ac2-8e99bc864cf8" />
+## 🧠 Project Details
 
-**Linear regression model summary**
+- **Project Name:** Zomato Regression Model  
+- **Dataset Source:** [Zomato Delivery Operations Analytics Dataset on Kaggle](https://www.kaggle.com/datasets/saurabhbadole/zomato-delivery-operations-analytics-dataset/data)
 
-<img width="548" alt="image" src="https://github.com/user-attachments/assets/9718a117-d85a-4fcc-992f-8424f7349614" />
+---
 
-**RandomForestRegressor summary:**
-<img width="543" alt="image" src="https://github.com/user-attachments/assets/df24547d-3dec-4a32-a619-3823a5ab5fa0" />
+## 📉 Linear Regression Model Summary
 
+![Linear Regression Summary](https://github.com/user-attachments/assets/9718a117-d85a-4fcc-992f-8424f7349614)
 
+---
 
+## 🌲 RandomForestRegressor Summary
+
+![Random Forest Summary](https://github.com/user-attachments/assets/df24547d-3dec-4a32-a619-3823a5ab5fa0)
+
+---
+
+## 📌 Visual Snapshot of Data
+
+![Initial Data Overview](https://github.com/user-attachments/assets/5964c70b-a7a5-4cf1-9ac2-8e99bc864cf8)
