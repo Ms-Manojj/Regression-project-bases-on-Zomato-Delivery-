@@ -15,6 +15,10 @@
 - **Project Name:** Zomato Regression Model  
 - **Dataset Source:** [Zomato Delivery Operations Analytics Dataset on Kaggle](https://www.kaggle.com/datasets/saurabhbadole/zomato-delivery-operations-analytics-dataset/data)
 
+## 📌 Visual Snapshot of Data
+
+![Initial Data Overview](https://github.com/user-attachments/assets/5964c70b-a7a5-4cf1-9ac2-8e99bc864cf8)
+
 ---
 
 ## 📉 Linear Regression Model Summary
@@ -29,6 +33,4 @@
 
 ---
 
-## 📌 Visual Snapshot of Data
 
-![Initial Data Overview](https://github.com/user-attachments/assets/5964c70b-a7a5-4cf1-9ac2-8e99bc864cf8)
